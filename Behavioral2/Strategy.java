@@ -1,0 +1,6 @@
+
+
+interface Strategy {
+    int execute(); 
+}
+ 
